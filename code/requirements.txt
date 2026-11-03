@@ -1,0 +1,10 @@
+# versions used for the reported results
+numpy==2.5.3
+pandas==3.0.5
+scipy==1.18.1
+scikit-learn==1.9.1
+matplotlib
+jax==0.12.0.1
+optax==0.2.8
+qiskit==2.6.1
+qiskit-aer==0.18.2

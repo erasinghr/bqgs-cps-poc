@@ -1,0 +1,16 @@
+{
+ "cpu": "Model name:                              Intel(R) Xeon(R) Processor @ 2.10GHz",
+ "python": "3.13.18",
+ "L1_ms": 0.0036490020499968523,
+ "L2_ms": 0.136253068500082,
+ "L3_features_ms": 0.04433250999863958,
+ "L3_quantum_statevector_ms": 1.959874723330965,
+ "L3_quantum_noisy_densitymatrix_sim_ms": 6.829869319999489,
+ "L3_classical_ms": 0.14864837799996167,
+ "L1_bytes_float32": 440,
+ "L1_n_vars": 10,
+ "L2_params": 364890,
+ "L2_bytes_float32": 1459560,
+ "L3_quantum_sv_bytes": 307200,
+ "L3_classical_bytes": 14400
+}
