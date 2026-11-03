@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+code/cache/*
+!code/cache/.gitkeep
+code/results/surprisal_seed*.npz
+hai/
+*.docx
+*.pdf
+.DS_Store
